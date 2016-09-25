@@ -55,6 +55,9 @@
 * [딥 오토인코더](https://kyulabs.blogspot.kr/2016/08/blog-post_14.html)
 * [Autoencoder vs RBM (+ vs CNN)](http://khanrc.tistory.com/entry/Autoencoder-vs-RBM-vs-CNN)
 
+### Deep Q learning
+* [Guest Post (Part I): Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/) [[한글](http://ddanggle.github.io/ml/ai/cs/2016/09/24/demystifyingDL.html)]
+
 ## Vector search 
 * [An Investigation of Practical Approximate
 Nearest Neighbor Algorithms](http://www.cs.cmu.edu/~agray/approxnn.pdf)
