@@ -4,5 +4,5 @@
 * [Machine Learning Basics(with tensorflow)](https://www.evernote.com/shard/s29/sh/64d969c6-4bad-43ac-8857-1e3dec495bd5/1207f425560497681d057e67ac337029)
 
 
-##### 공부 할 것
+### 공부 할 것
 * [Google Recommendation](https://www.google.com/about/careers/students/guide-to-technical-development.html)
