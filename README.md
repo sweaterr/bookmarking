@@ -10,6 +10,8 @@
 * [네이버 면접 관련 크롤링](https://www.evernote.com/shard/s29/sh/5d8fa64c-f659-49a1-920b-0f51ad84aca6/0cbbd73b1332741d67a02dbfc351ad5e)
 * [연봉협상](https://www.evernote.com/shard/s29/sh/433851c9-1a99-4838-985e-34b715e34a50/6975f37f33644482870827a6fd6affca) 
 
+##### 딥러닝 리서치
+
 
 ### 공부 할 것
 * [Google Recommendation](https://www.google.com/about/careers/students/guide-to-technical-development.html)
