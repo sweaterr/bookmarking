@@ -15,7 +15,7 @@
 * [연봉협상](https://www.evernote.com/shard/s29/sh/433851c9-1a99-4838-985e-34b715e34a50/6975f37f33644482870827a6fd6affca) 
 
 ### 2016-08
-* [딥러닝 리서치](./deep-learning.md)
+* [딥러닝 리서치](https://www.evernote.com/shard/s29/sh/8826e8ad-175d-4053-a736-53bb0ec33fdd/f621059e85a2004b38a3b98da17659aa)
 
 
 ### 공부 할 것
