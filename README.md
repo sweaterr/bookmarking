@@ -1,5 +1,4 @@
 ### 2016-10
-## 2016-10
 * [정보검색 개념 정리](https://www.evernote.com/shard/s29/sh/6eeb8c1e-f376-4947-84b5-6894ee0a5df1/600ee1f2b3f0646ef9e7bf2ce206276e) 
 * Tensorflow for machine intelligence  
  1. [텐서플로우 펀더멘털](https://www.evernote.com/shard/s29/sh/3b83f498-3549-48c4-9a40-5119a58c2788/295769c108025ccdf29e7b74b017105c)
