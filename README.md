@@ -4,6 +4,8 @@
  1. [텐서플로우 펀더멘털](https://www.evernote.com/shard/s29/sh/3b83f498-3549-48c4-9a40-5119a58c2788/295769c108025ccdf29e7b74b017105c)
  1. [Machine Learning Basics(with tensorflow)](https://www.evernote.com/shard/s29/sh/64d969c6-4bad-43ac-8857-1e3dec495bd5/1207f425560497681d057e67ac337029)
  1. [Object Recognition and Classification](https://www.evernote.com/shard/s29/sh/73ddb54f-0dad-4270-9e8e-a56d4174d98e/6aecdddda45c09383299f93ce66c08b6)
+* [Embedding and Representation Learning](https://www.evernote.com/shard/s29/sh/3d9e9327-28f4-4f64-a787-9e793fcf4a15/e35099a891eed985127a5bb596ffdcf8)
+* [집 알아보기](https://www.evernote.com/shard/s29/sh/5f73da22-054b-4119-8f66-8b7885f3956b/c524288acb1c5d75b6cbc6eb88c36a4a)
 
 
 ### 2016-09
