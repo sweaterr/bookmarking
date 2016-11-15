@@ -3,6 +3,9 @@
 * [RNN의 믿을수 없는 성능](https://www.evernote.com/shard/s29/sh/b54827cd-8507-4d3d-a531-4c07971057a6/5e131b6a93617eb1bacf09461ce12b11)
 * [Collaborative Filtering: SVD, 직관적인 접근](http://blog.naver.com/rupy400/220859316456)
 * [Multi-Index Locality Sensitive Hashing for Fun and Profit](https://www.eventbrite.com/engineering/multi-index-locality-sensitive-hashing-for-fun-and-profit/)
+* Beam Search
+ * [Beam Search Algorithm (Draft by Andrew Jungwirth)](http://jhave.org/algorithms/graphs/beamsearch/beamsearch.shtml)
+ * [Beam Search Algorithm, how does it work?](http://stackoverflow.com/questions/22273119/beam-search-algorithm-how-does-it-work)
 
 ### 2016-10
 * [정보검색 개념 정리](https://www.evernote.com/shard/s29/sh/6eeb8c1e-f376-4947-84b5-6894ee0a5df1/600ee1f2b3f0646ef9e7bf2ce206276e) 
