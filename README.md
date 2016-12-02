@@ -1,3 +1,6 @@
+### 2016-12
+* [Vector Calculus](https://math.oregonstate.edu/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/vcalc.html)
+
 ### 2016-11
 * [CONNECTING IMAGES AND NATURAL LANGUAGE](https://www.evernote.com/shard/s29/sh/a2245c1e-3545-4025-bf71-a2258aa4ec25/de1c32777ed68a71b3bd97b9f7e159cd)
 * [RNN의 믿을수 없는 성능](https://www.evernote.com/shard/s29/sh/b54827cd-8507-4d3d-a531-4c07971057a6/5e131b6a93617eb1bacf09461ce12b11)
